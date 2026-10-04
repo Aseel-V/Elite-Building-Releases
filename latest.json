@@ -1,14 +1,14 @@
 {
-  "version": "2.6.2",
-  "publishedAt": "2026-10-04T15:25:39Z",
+  "version": "2.6.3",
+  "publishedAt": "2026-10-04T18:52:58Z",
   "url": "https://github.com/Aseel-V/Elite-Building-Releases/releases/latest/download/Elite-Building-Setup.exe",
-  "portableUrl": "https://github.com/Aseel-V/Elite-Building-Releases/releases/download/v2.6.2/Elite-Building-2.6.2-portable.exe",
-  "size": 127485788,
-  "sha256": "c3dafddf324ff973c531368d93f8ffecf9a9da9c828267654345c4ad211634a3",
+  "portableUrl": "https://github.com/Aseel-V/Elite-Building-Releases/releases/download/v2.6.3/Elite-Building-2.6.3-portable.exe",
+  "size": 127488585,
+  "sha256": "292cb6cfa33d62c807a4098f4de2f4beea521e067ec89bfaafad9beaf89358cc",
   "android": {
-    "version": "2.6.2",
+    "version": "2.6.3",
     "url": "https://github.com/Aseel-V/Elite-Building-Releases/releases/latest/download/Elite-Building.apk",
     "size": 881079,
-    "sha256": "1b73e8d55807cd7491a948d44466e05f74c6e6d4b2c8e7cb55b2f7f781d6b8a3"
+    "sha256": "7c7c9f1e043034ba563e45849122407c6c433a38e4c9e6e3b7296ff4d8cf03aa"
   }
 }
